@@ -1,6 +1,7 @@
 // const vs let
 // const nameUser = "Alex";
 // let ageUser = 37;
+// регистр имеет значение. WHILE и while - разные переменнные.
 
 // ========================
 
