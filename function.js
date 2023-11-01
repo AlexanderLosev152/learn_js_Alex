@@ -43,3 +43,31 @@ console.log("$", getPrice("Lada"));
 // console.log(weight("lady", 17));
 
 // =================
+
+// let counter = 0;
+// const interval = setInterval(() => {
+//   if (counter === 5) {
+//     clearInterval(interval);
+//   } else {
+//     console.log(++counter);
+//   }
+// }, 1000);
+
+// =================
+
+// параметры по умолчанию
+// const sum = (a, b) => a + b;
+// console.log(sum(41));
+
+// // замыкания
+// function createMember(name) {
+//   return function (lastName) {
+//     console.log(name + lastName);
+//   };
+// }
+
+// const logWitgLastName = createMember("Alexander");
+// console.log(logWitgLastName(" Losev"));
+// console.log(logWitgLastName(" Ivanov"));
+
+// =================
